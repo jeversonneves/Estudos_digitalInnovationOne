@@ -2,4 +2,4 @@
 
 Aprendizados na plataforma Digital Innovation One
 
-<img align="right" src="/logo_dio.jpg" width="200">
+<img align="center" src="/logo_dio.jpg" width="200">
